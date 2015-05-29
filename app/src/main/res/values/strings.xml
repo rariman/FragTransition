@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FragTrasition</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="alpha">Alpha</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="ok">OK</string>
+
+</resources>

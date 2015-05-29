@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="view0_default_color">#FFFF0000</color>
+    <color name="view1_default_color">#FF00FF00</color>
+    <color name="view2_default_color">#FF0000FF</color>
+    <color name="view3_default_color">#FFBB00BB</color>
+    <color name="view4_default_color">#FF00BBBB</color>
+</resources>
